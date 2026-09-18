@@ -1,2 +1,2 @@
 Esto es una prueba. Esto es otra modifciacion.
-Linea 2.
+Linea 2. Esto es la adición en línea 2.
